@@ -1,0 +1,30 @@
+C:\Users\radyg\source\repos\OOAP_Lab1\bin\Debug\OOAP_Lab1.exe.config
+C:\Users\radyg\source\repos\OOAP_Lab1\bin\Debug\OOAP_Lab1.exe
+C:\Users\radyg\source\repos\OOAP_Lab1\bin\Debug\OOAP_Lab1.pdb
+C:\Users\radyg\source\repos\OOAP_Lab1\bin\Debug\Guna.UI2.dll
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.csproj.AssemblyReference.cache
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.CreateDocForm.resources
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.ProdSystemForm.resources
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.Properties.Resources.resources
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.UserControls.UC_Create.resources
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.UserControls.UC_Show.resources
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.csproj.GenerateResource.cache
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.csproj.CopyComplete
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.exe
+C:\Users\radyg\source\repos\OOAP_Lab1\obj\Debug\OOAP_Lab1.pdb
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\bin\Debug\OOAP_Lab1.exe.config
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\bin\Debug\OOAP_Lab1.exe
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\bin\Debug\OOAP_Lab1.pdb
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\bin\Debug\Guna.UI2.dll
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.csproj.AssemblyReference.cache
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.CreateDocForm.resources
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.ProdSystemForm.resources
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.Properties.Resources.resources
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.UserControls.UC_Create.resources
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.UserControls.UC_Show.resources
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.csproj.GenerateResource.cache
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.csproj.CopyComplete
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.exe
+C:\Users\radyg\source\repos\OOAP_Lab1(Without Fabric)\obj\Debug\OOAP_Lab1.pdb
